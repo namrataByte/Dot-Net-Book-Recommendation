@@ -1,0 +1,13 @@
+Genre	Author
+Fantasy	J.K. Rowling
+Fiction	George Orwell
+Mystery	Agatha Christie
+poetry	Harivansh Rai Bachchan
+Romance  Chetan Bhagat
+Short Stories Ruskin Bond
+Mythology Amish Tripathi
+
+
+Database password: Caf3DbPassw0rd!
+/cafe/db password:  Re:Start!9
+rds endpoints: cafedatabase.cdosausqy9de.us-east-1.rds.amazonaws.com
